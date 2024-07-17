@@ -8,4 +8,8 @@ public class ArtAlbums extends Books {
         this.paperQuality = paperQuality;
 
     }
+
+       public String getPaperQuality(){
+        return paperQuality;
+   }
 }
